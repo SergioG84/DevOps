@@ -1,1 +1,1 @@
-Terraform is a really awesome tool used mainly for standing up remote servers in AWS. What makes it awesome is that it can be configured to do it automatically. The main goal is to create, improve, automate, and change infrastructure such as servers, databases, caches, load balancers, or queues. Basically any kind of infrastructure can work with Terraform 
+Terraform is the basis for infrastructure as code, I will be creating tutorials along the way to put on my YouTube channel 
